@@ -3,6 +3,11 @@ Agile Dwarf
 
 Thank you for your interest in AgileDwarf
 
+Fork Purpose and Notes
+----------------------
+The purpose of this fork was to update Redwarf to work on PostgreSQL and jQuery 1.8.3. 
+
+
 INSTALLATION INSTRUCTIONS
 -------------------------
 
